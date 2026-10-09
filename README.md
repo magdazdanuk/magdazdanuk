@@ -1,4 +1,4 @@
-#Hey there! 🫡
+# Hey there! 🫡
 
 I'm Magda, a data analyst & cybersecurity enthusiast based in Poland.
 
