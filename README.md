@@ -1,28 +1,20 @@
-# Hi there, I'm Magda
+Hey there! 🫡
 
-I am a **Data Analytics & Cybersecurity Enthusiast** passionate about leveraging data to uncover patterns, optimize insights, and protect digital systems from modern threats.
+I'm Magda, a data analyst & cybersecurity enthusiast based in Poland.
 
----
+I analyze and secure data wherever I can find it.
 
-## 📌 Featured Project
+If a pattern or potential anomaly pops up in a dataset, chances are I'll investigate it and build a tool around it.
 
-### 🛡️ [bank-data-security-analysis](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis)
+My main tech stack is python, sql and powerbi.
 
-A comprehensive data-driven investigation into banking operations, user behavior, and potential security anomalies.
+I've got a few pinned projects, but my favorite is [bank-data-security-analysis](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis).
 
-* **Objective:** Analyze financial transaction datasets to identify patterns, anomalies, and risk factors while ensuring data privacy standards.
-* **Key Focus:** Exploratory Data Analysis (EDA), anomaly detection algorithms, threat risk assessment, and secure data handling.
-* **Tech Stack:** Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebooks.
+I'm constantly working on new data pipelines, logs analysis, and threat detection projects.
 
-👉 **[View the Repository](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis)**
+If you want to check out my work or connect, my links are available on the profile!
 
----
+Fun Facts:
 
-## 🛠️ Skills & Focus Areas
-
-* **Data Analysis & Science:** Python, SQL, Pandas, Data Cleansing & Visualization
-* **Cybersecurity & Threat Intelligence:** Anomaly Detection, Log Analysis, Security & Risk Assessment, Data Protection
-
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-
-> *"Turning raw data into actionable insights, and insights into secure systems."*
+* I drink ayran like water
+* I love climbing
