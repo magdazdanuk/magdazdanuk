@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Magda
 
-<!--
-**magdazdanuk/magdazdanuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analytics & Cybersecurity Enthusiast** passionate about leveraging data to uncover patterns, optimize insights, and protect digital systems from modern threats.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+
+### 🛡️ [bank-data-security-analysis](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis)
+
+A comprehensive data-driven investigation into banking operations, user behavior, and potential security anomalies.
+
+* **Objective:** Analyze financial transaction datasets to identify patterns, anomalies, and risk factors while ensuring data privacy standards.
+* **Key Focus:** Exploratory Data Analysis (EDA), anomaly detection algorithms, threat risk assessment, and secure data handling.
+* **Tech Stack:** Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebooks.
+
+👉 **[View the Repository](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis)**
+
+---
+
+## 🛠️ Skills & Focus Areas
+
+* **Data Analysis & Science:** Python, SQL, Pandas, Data Cleansing & Visualization
+* **Cybersecurity & Threat Intelligence:** Anomaly Detection, Log Analysis, Security & Risk Assessment, Data Protection
+
+* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+> *"Turning raw data into actionable insights, and insights into secure systems."*
