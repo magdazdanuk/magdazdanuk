@@ -8,7 +8,7 @@ If a pattern or potential anomaly pops up in a dataset, chances are I'll investi
 
 My main tech stack is python, sql and powerbi.
 
-I've got a few pinned projects, but my favorite is [bank-data-security-analysis](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis).
+I've got a few pinned projects, but my favorite is [bank-data-security-analysis](https://github.com/YOUR_GITHUB_USERNAME/bank-data-security-analysis), [sklep-z-kawa](https://github.com/YOUR_GITHUB_USERNAME/sklep-z-kawa)
 
 I'm constantly working on new data pipelines, logs analysis, and threat detection projects.
 
