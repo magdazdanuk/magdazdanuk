@@ -9,10 +9,13 @@ If a pattern or potential anomaly pops up in a dataset, chances are I'll investi
 My main tech stack is python, sql, excel and powerbi.
 
 My favorite projects are 
+
 [credit-risk-analysis](https://github.com/magdazdanuk/credit-risk-analysis) 
+
 credit risk solution using Python ETL and Power BI to analyze LendingClub loan defaults and model dynamic capital provision reserves under stress scenarios
 
 [sklep-z-kawa](https://github.com/magdazdanuk/sklep-z-kawa), 
+
 [bank-data-security-analysis](https://github.com/magdazdanuk/bank-data-security-analysis)
 
 I'm constantly working on new data pipelines, logs analysis, and threat detection projects.
