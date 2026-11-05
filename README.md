@@ -8,7 +8,7 @@ If a pattern or potential anomaly pops up in a dataset, chances are I'll investi
 
 My main tech stack is python, sql, excel and powerbi.
 
-My favorite projects are 
+## My favorite projects are 
 
 [credit-risk-analysis](https://github.com/magdazdanuk/credit-risk-analysis) 
 
@@ -21,6 +21,8 @@ An interactive Excel dashboard tracking coffee shop revenue, product performance
 [bank-data-security-analysis](https://github.com/magdazdanuk/bank-data-security-analysis)
 
 Financial and fraud analytics dashboard using SQL and Power BI to track expenditure trends and flag suspicious geographic transactions
+
+---
 
 I'm constantly working on new data pipelines, logs analysis, and threat detection projects.
 
