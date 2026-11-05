@@ -6,7 +6,7 @@ I analyze and secure data wherever I can find it.
 
 If a pattern or potential anomaly pops up in a dataset, chances are I'll investigate it and build a tool around it.
 
-My main tech stack is python, sql and powerbi.
+My main tech stack is python, sql, excel and powerbi.
 
 My favorite projects are [credit-risk-analysis](https://github.com/magdazdanuk/credit-risk-analysis), [sklep-z-kawa](https://github.com/magdazdanuk/sklep-z-kawa), [bank-data-security-analysis](https://github.com/magdazdanuk/bank-data-security-analysis)
 
