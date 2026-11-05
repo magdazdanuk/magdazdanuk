@@ -8,7 +8,7 @@ If a pattern or potential anomaly pops up in a dataset, chances are I'll investi
 
 My main tech stack is python, sql, excel and powerbi.
 
-## My favorite projects are 
+### My favorite projects are 
 
 [credit-risk-analysis](https://github.com/magdazdanuk/credit-risk-analysis) 
 
