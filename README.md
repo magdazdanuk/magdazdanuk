@@ -12,11 +12,15 @@ My favorite projects are
 
 [credit-risk-analysis](https://github.com/magdazdanuk/credit-risk-analysis) 
 
-credit risk solution using Python ETL and Power BI to analyze LendingClub loan defaults and model dynamic capital provision reserves under stress scenarios
+Credit risk solution using Python ETL and Power BI to analyze LendingClub loan defaults and model dynamic capital provision reserves under stress scenarios
 
-[sklep-z-kawa](https://github.com/magdazdanuk/sklep-z-kawa), 
+[sklep-z-kawa](https://github.com/magdazdanuk/sklep-z-kawa)
+
+An interactive Excel dashboard tracking coffee shop revenue, product performance, and regional profitability to drive business insights
 
 [bank-data-security-analysis](https://github.com/magdazdanuk/bank-data-security-analysis)
+
+Financial and fraud analytics dashboard using SQL and Power BI to track expenditure trends and flag suspicious geographic transactions
 
 I'm constantly working on new data pipelines, logs analysis, and threat detection projects.
 
