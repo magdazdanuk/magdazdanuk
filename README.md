@@ -22,7 +22,7 @@ An interactive Excel dashboard tracking coffee shop revenue, product performance
 
 Financial and fraud analytics dashboard using SQL and Power BI to track expenditure trends and flag suspicious geographic transactions
 
-### AND...
+### and...
 
 I'm constantly working on new data pipelines, logs analysis, and threat detection projects.
 
