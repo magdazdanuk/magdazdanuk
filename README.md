@@ -1,10 +1,6 @@
 # Hey there! 🫡
 
-I'm Magda, a data analyst
-
-I analyze and secure data wherever I can find it.
-
-If a pattern or potential anomaly pops up in a dataset, chances are I'll investigate it and build a tool around it.
+I'm Magda, a data analyst.
 
 My main tech stack is python, sql, excel and powerbi.
 
