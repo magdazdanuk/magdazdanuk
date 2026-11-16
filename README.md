@@ -1,6 +1,6 @@
 # Hey there! 🫡
 
-I'm Magda, a data analyst & cybersecurity enthusiast based in Poland.
+I'm Magda, a data analyst
 
 I analyze and secure data wherever I can find it.
 
